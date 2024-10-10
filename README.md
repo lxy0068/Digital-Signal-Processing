@@ -1,7 +1,5 @@
 # Digital-Signal-Processing
 数字信号处理（2024年春）全部代码附在报告中
-
-![image](https://github.com/user-attachments/assets/2f316139-f782-4bbb-b780-497e5329549f)
 ![9](https://github.com/user-attachments/assets/4232ea1d-533e-404f-b713-024337070348)
 ![10](https://github.com/user-attachments/assets/1c9fdea3-76f3-4cdb-a9da-34e17d9a37ce)
 ![14](https://github.com/user-attachments/assets/f4f1be79-bc12-4bc2-b83a-b4fa41e4a7fc)
